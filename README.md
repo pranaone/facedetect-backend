@@ -1,7 +1,6 @@
 # FaceDetect (Backend)
 
-The backend server files for the facedetect app
-Written in JavaScript using Express Framework.
+The backend server files for the facedetect app written in JavaScript using Express Framework.
 
 Install Instructions
 ====================
